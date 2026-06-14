@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔬 malware_lab.idb
+# 🔬 Dr-D25_person.idb
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=F4C430&center=true&vCenter=true&width=750&lines=Hex-Rays+Decompiler+plugin+loaded...;Loading+symbols...;Analyzing+suspicious+binaries...;Extracting+IOCs...;STATUS_SUCCESS" />
 
@@ -11,40 +11,6 @@ Database loaded successfully.
 ```
 
 </div>
-
----
-
-```asm
-; ######################################################################
-; File Name : analyst.exe
-; ImageBase : 0000000140000000
-; Machine   : AMD64
-; Compiler  : MSVC
-; ######################################################################
-```
-
-## Segments
-
-```text
-.text
-.rdata
-.data
-.pdata
-.reloc
-.rsrc
-```
-
----
-
-## Names
-
-```text
-0000000140001000 analyst_name
-0000000140001020 role
-0000000140001040 skills
-0000000140001060 tools
-0000000140001080 current_projects
-```
 
 ---
 
@@ -188,6 +154,9 @@ C++
 Assembly
 Windows API
 PE Format
+Elf Format
+APK Format
+Scripts
 ```
 
 ---
@@ -236,16 +205,6 @@ PE Format
 .text:140000011     retn
 
 .text:140000011 start endp
-```
-
----
-
-## External References
-
-```text
-GitHub     -> github.com/YOUR_USERNAME
-Telegram   -> @YOUR_USERNAME
-LinkedIn   -> linkedin.com/in/YOUR_PROFILE
 ```
 
 ---
