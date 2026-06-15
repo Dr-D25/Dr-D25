@@ -46,12 +46,11 @@ Malware Analyst | Reverse Engineer | Software Developer
 ## Tooling
 
 * IDA Pro
-* Ghidra
 * x64dbg
 * WinDbg
 * Radare2
-* Binary Ninja
 * Wireshark
+* ...
 
 ---
 
