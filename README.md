@@ -1,65 +1,33 @@
-# 👨‍💻 Dr-D25
+# [ REVERSE ENGINEER ]
 
 ```text
-Malware Analyst | Reverse Engineer | Software Developer
+Name:      Dr-D25
+Role:      Malware Analyst
+Focus:     Reverse Engineering
+Location:  /dev/null
 ```
-
-Анализ вредоносного ПО, исследование исполняемых файлов и разработка программного обеспечения.
 
 ---
 
-## Expertise
+### Skills
 
 * Malware Analysis
 * Reverse Engineering
-* Binary Analysis
+* Binary Research
 * Software Development
-* Cybersecurity Research
 
----
+### Environment
 
-## Systems
+Linux • Windows • Android
 
-* Linux
-* Windows
-* Android
+### Languages
 
----
+Assembly • C • C++ • Python
 
-## Languages
+### Scripting
 
-* Assembly
-* C
-* C++
-* Python
+Python • Bash • PowerShell
 
----
+### Status
 
-## Scripting
-
-* Python
-* Bash
-* PowerShell
-
----
-
-## Tooling
-
-* IDA Pro
-* x64dbg
-* WinDbg
-* Radare2
-* Wireshark
-* ...
-
----
-
-## Focus
-
-Разработка собственных программ и инструментов, исследование внутреннего устройства программного обеспечения, анализ файловых форматов, изучение методов защиты и атак, постоянное развитие в области кибербезопасности.
-
----
-
-> "Understanding software beyond its source code."
-
-</>
+Researching software internals and cybersecurity.
