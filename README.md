@@ -15,6 +15,7 @@ Location:  /dev/null
 * Reverse Engineering
 * Binary Research
 * Software Development
+* Forensic
 
 ### Environment
 
